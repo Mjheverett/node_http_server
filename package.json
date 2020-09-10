@@ -1,0 +1,13 @@
+{
+  "name": "node_http_server",
+  "version": "0.0.1",
+  "description": "My first HTTP Node Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js",
+    "dev": "nodemon ./index.js"
+  },
+  "author": "Matthew Everett",
+  "license": "ISC"
+}
